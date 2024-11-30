@@ -1,0 +1,10 @@
+{"Cost": "5.00", 
+"Dietary Restrictions": {
+    "gluten-free": true
+}, 
+"Ingredients": ["Almond Paste", "Baking Powder", "Irish Cream", "Bouillon"], 
+"Nutrition": {
+    "high-protein": true
+}, 
+"Zipcode": "55122",
+"recommendation_type": "I want to only use ingreds I have"}
